@@ -24,5 +24,11 @@
     <ClCompile Include="1005_温度转换.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1006_三个数找最大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1007_分段函数求值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
