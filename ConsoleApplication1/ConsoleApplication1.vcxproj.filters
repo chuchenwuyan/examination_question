@@ -33,5 +33,8 @@
     <ClCompile Include="1008_成绩评定.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1009_数字的处理与判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
