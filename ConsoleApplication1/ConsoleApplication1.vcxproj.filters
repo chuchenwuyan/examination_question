@@ -36,5 +36,8 @@
     <ClCompile Include="1009_数字的处理与判断.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1010_利润计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
