@@ -39,5 +39,8 @@
     <ClCompile Include="1010_利润计算.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1011_最大公约数与最小公倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
