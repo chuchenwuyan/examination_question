@@ -45,5 +45,8 @@
     <ClCompile Include="1012_字符串统计分类.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1013_Sn的公式求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
