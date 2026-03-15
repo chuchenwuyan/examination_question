@@ -48,5 +48,8 @@
     <ClCompile Include="1013_Sn的公式求和.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1014_阶乘求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
