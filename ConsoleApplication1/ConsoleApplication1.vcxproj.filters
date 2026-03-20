@@ -60,5 +60,8 @@
     <ClCompile Include="1017_完数的判断.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1018_有规律的数列求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
