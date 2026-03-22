@@ -66,5 +66,8 @@
     <ClCompile Include="1019_自由下落的距离计算.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1020_猴子吃桃.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
