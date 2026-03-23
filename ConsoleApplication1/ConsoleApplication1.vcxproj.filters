@@ -69,5 +69,8 @@
     <ClCompile Include="1020_猴子吃桃.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1021_迭代法求平方根.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
