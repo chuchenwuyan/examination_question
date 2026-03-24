@@ -72,5 +72,8 @@
     <ClCompile Include="1021_迭代法求平方根.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2022_筛选N以内的素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
