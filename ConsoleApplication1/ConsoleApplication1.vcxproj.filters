@@ -72,7 +72,13 @@
     <ClCompile Include="1021_迭代法求平方根.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2022_筛选N以内的素数.c">
+    <ClCompile Include="1022_筛选N以内的素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1023_选择排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1024_矩阵对角线求和.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
