@@ -81,5 +81,8 @@
     <ClCompile Include="1024_矩阵对角线求和.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1025_数组插入处理.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
