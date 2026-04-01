@@ -84,5 +84,8 @@
     <ClCompile Include="1025_数组插入处理.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1026_数字逆序输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
