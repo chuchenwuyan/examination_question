@@ -87,5 +87,8 @@
     <ClCompile Include="1026_数字逆序输出.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1027_最大公约数与最小公倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
