@@ -90,5 +90,8 @@
     <ClCompile Include="1027_最大公约数与最小公倍数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1028_自定义函数求一元二次方程.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
