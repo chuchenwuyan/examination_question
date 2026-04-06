@@ -94,7 +94,10 @@
     <ClCompile Include="1027_最大公约数与最小公倍数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1028_自定义函数求一元二次方程.c" />
+    <ClCompile Include="1028_自定义函数求一元二次方程.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1029_函数处理素数.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
