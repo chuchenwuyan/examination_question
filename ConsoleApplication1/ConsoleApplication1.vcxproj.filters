@@ -96,5 +96,8 @@
     <ClCompile Include="1029_函数处理素数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1030_二维数组的转置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
