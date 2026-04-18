@@ -102,5 +102,8 @@
     <ClCompile Include="1031_自定义函数之字符串反转.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1031_字符串连接.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
