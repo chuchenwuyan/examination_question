@@ -105,5 +105,8 @@
     <ClCompile Include="1031_字符串连接.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1033_定义函数之字符提取.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
