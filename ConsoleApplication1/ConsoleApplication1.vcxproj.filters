@@ -114,5 +114,8 @@
     <ClCompile Include="1035_自定义函数之字符类型统计.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1036_带参数宏定义练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

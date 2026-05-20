@@ -115,7 +115,10 @@
     <ClCompile Include="1034_自定义函数之数字分离.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1035_自定义函数之字符类型统计.c" />
+    <ClCompile Include="1035_自定义函数之字符类型统计.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1036_带参数宏定义练习.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
