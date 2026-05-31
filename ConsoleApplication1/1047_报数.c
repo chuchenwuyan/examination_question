@@ -34,7 +34,7 @@ int main()
     {
         if(alive[i] == 1)
         {
-            printf("%d",i + 1);
+            printf("%d\n",i + 1);
         }
     }
 }
