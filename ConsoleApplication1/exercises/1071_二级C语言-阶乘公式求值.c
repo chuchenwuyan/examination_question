@@ -44,4 +44,29 @@ int main()
     }
 
     printf("sum=%.5lf",sum);
+}·#include <stdio.h>
+
+double fact(int k)
+{
+    double result = 1;
+    
+    for(int i = 1; i <= k; i++)
+    {
+        result *= i;
+    }
+
+    return result;
+}
+int main()
+{
+    int n;
+    double sum = 0;
+    scanf("%d",&n);
+
+    for(int i = 1;i <= n;i++)
+    {
+        sum += 1.0 / fact(i);
+    }
+
+    printf("sum=%.5lf",sum);
 }
